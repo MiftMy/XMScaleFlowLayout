@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.h
-//  XMScaleFlowLayout
+//  XMPermutation
 //
-//  Created by 梁小迷 on 2019/12/29.
+//  Created by 梁小迷 on 2019/12/23.
 //  Copyright © 2019 mifit. All rights reserved.
 //
 
